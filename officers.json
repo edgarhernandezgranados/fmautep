@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Edgar Hernandez",
+    "role": "President",
+    "email": "edgar@example.com",
+    "linkedin": "https://www.linkedin.com/in/edgar-hernandez/",
+    "photo": "assets/officer-edgar.jpg",
+    "bio": "Investment banking aspirant; leads technical prep and recruiting strategy."
+  },
+  {
+    "name": "VP External Affairs",
+    "role": "Vice President, External",
+    "photo": "",
+    "bio": "Partnerships, speakers, alumni relations."
+  },
+  {
+    "name": "VP Internal Affairs",
+    "role": "Vice President, Internal",
+    "photo": "",
+    "bio": "Member ops, attendance, onboarding."
+  },
+  {
+    "name": "Treasurer",
+    "role": "Finance & Budget",
+    "photo": ""
+  },
+  {
+    "name": "Events Lead",
+    "role": "Programming",
+    "photo": ""
+  }
+]
